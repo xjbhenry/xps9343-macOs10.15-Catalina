@@ -366,7 +366,7 @@
 	<key>Boot</key>
 	<dict>
 		<key>Arguments</key>
-		<string>-cdfon dart=0</string>
+		<string>-cdfon</string>
 		<key>DefaultVolume</key>
 		<string>MAC OS</string>
 		<key>Legacy</key>
