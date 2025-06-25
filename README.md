@@ -6,4 +6,4 @@ SD Card Reader
 What works:
 Everything else
 
-`VoodooPS2Controller.kext` was compiled againt source code and have fixed a problem when working with `VoodooI2C.kext`.
+`VoodooPS2Controller.kext` was compiled against source code and have fixed a problem when working with `VoodooI2C.kext`.
